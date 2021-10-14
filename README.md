@@ -30,6 +30,7 @@ flutter run
 
 ### Home Page
 <img src="assets/screenshots/home-page.png" />
+<img src="assets/screenshots/home-page-theme.png" />
 
 ## Links
 
