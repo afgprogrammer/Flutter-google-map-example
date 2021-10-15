@@ -2,13 +2,14 @@ import 'dart:async';
 
 import 'package:custom_info_window/custom_info_window.dart';
 import 'package:day41/model/map_style.dart';
+import 'package:day41/pages/find_friends.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() {
   runApp(const MaterialApp(
-    home: HomePage(),
+    home: FindFriends(),
     debugShowCheckedModeBanner: false,
   ));
 }
