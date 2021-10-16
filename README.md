@@ -35,6 +35,9 @@ flutter run
 ### Find Friends Page
 <img src="assets/screenshots/find-friends-page.png" />
 
+### Circles Page
+<img src="assets/screenshots/circles-page.png" />
+
 ## Links
 
 * [Website](https://afgprogrammer.com)
