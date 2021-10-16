@@ -32,6 +32,9 @@ flutter run
 <img src="assets/screenshots/home-page.png" />
 <img src="assets/screenshots/home-page-theme.png" />
 
+### Find Friends Page
+<img src="assets/screenshots/find-friends-page.png" />
+
 ## Links
 
 * [Website](https://afgprogrammer.com)
